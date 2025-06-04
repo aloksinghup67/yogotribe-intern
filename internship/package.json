@@ -1,0 +1,12 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "A simple Node.js API to check if a number is prime",
+  "main": "server.js",
+  "scripts": {
+    "start": "node internship.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
